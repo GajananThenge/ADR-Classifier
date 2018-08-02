@@ -1,0 +1,33 @@
+Day	Topic	Estimated Hours
+1	Introduction and Python installation	1
+	Variables and numbers	0.5
+	Strings	0.5
+	Lists	0.5
+	Tuples	0.5
+	Dictionary	1
+	Sets	0.5
+	Operators	0.5
+	Functions	1
+	Regular Expressions	1
+	Working with files	1
+	Day 1 Total	8
+		
+2	Numpy	1
+	Scipy	1
+	Pandas	1
+	Working with Data (data preprocessing)	1
+	Splitting Data	1
+	Data Analytics workflow	1
+	Machine Learning  Introduction	0.5
+	Linear regression + hands on	1.5
+	Day 2 Total	8
+		
+3	Logistic regression + hands on	1
+	Decision Tree / Random Forest + hands on	1
+	Support Vector Machine + hands on	1
+	kNN	1
+	Other aspects of Data Analytics +  NN basics+ NLP basics	3
+	Overview of Additional tools	1
+	QA	1
+	Day 3 	8
+	Total learning hours	24
